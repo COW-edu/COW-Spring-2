@@ -35,7 +35,7 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/orgs/COW-edu/people/jina4066">
+        <a href="https://github.com/jina4066">
             <div>지나</div>
         </a>
     </td>
